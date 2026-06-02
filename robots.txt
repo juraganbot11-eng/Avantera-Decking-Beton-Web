@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://decking.avantera.site/sitemap.xml
+
+# Block unnecessary files
+Disallow: /wp-admin/
+Disallow: /wp-login.php
